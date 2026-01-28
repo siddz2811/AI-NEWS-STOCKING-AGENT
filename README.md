@@ -1,4 +1,4 @@
-# AI News Aggregator
+# AI News Stocking Agent
 
 An intelligent news aggregation system that collects, processes, and delivers personalized AI-related content from multiple sources including YouTube channels, OpenAI blog, and Anthropic blog. The system uses AI agents to curate and summarize content, then sends personalized email digests based on user profiles.
 
@@ -220,3 +220,4 @@ See `requirements.txt` for complete list with versions.
 ## License
 
 [Add your license here]
+
